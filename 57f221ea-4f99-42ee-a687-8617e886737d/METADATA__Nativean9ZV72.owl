@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Abundance">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Abundance"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Abundance">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Abundance</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Abundance</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__AdjRawCount">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__AdjRawCount"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__AdjRawCount">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__AdjRawCount</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">AdjRawCount</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Artifact">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Artifact"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Artifact">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Artifact</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Artifact</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchNotes">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchNotes"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchNotes">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__BenchNotes</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">BenchNotes</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchTaxonName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchTaxonName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchTaxonName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__BenchTaxonName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">BenchTaxonName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchTaxonNameReferenceCode">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchTaxonNameReferenceCode"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BenchTaxonNameReferenceCode">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__BenchTaxonNameReferenceCode</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">BenchTaxonNameReferenceCode</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BioDataShortName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BioDataShortName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BioDataShortName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__BioDataShortName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">BioDataShortName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BioDataTaxonName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BioDataTaxonName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__BioDataTaxonName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__BioDataTaxonName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">BioDataTaxonName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Class_1">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Class_1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Class_1">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Class_1</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Class_1</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionDate">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionDate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionDate">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__CollectionDate</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DATE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CollectionDate</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionDayOfYear">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionDayOfYear"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionDayOfYear">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__CollectionDayOfYear</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CollectionDayOfYear</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionMonth">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionMonth"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionMonth">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__CollectionMonth</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CollectionMonth</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionYear">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionYear"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CollectionYear">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__CollectionYear</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CollectionYear</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CurationDate">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CurationDate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CurationDate">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__CurationDate</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DATE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CurationDate</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CurationEntity">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CurationEntity"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__CurationEntity">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__CurationEntity</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CurationEntity</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Density_m2">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Density_m2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Density_m2">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Density_m2</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Density_m2</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Family">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Family"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Family">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Family</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Family</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__FieldComponent">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__FieldComponent"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__FieldComponent">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__FieldComponent</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">FieldComponent</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__FieldSplitRatio">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__FieldSplitRatio"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__FieldSplitRatio">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__FieldSplitRatio</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">FieldSplitRatio</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Genus">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Genus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Genus">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Genus</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Genus</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ITIS_MatchCode">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ITIS_MatchCode"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ITIS_MatchCode">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ITIS_MatchCode</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ITIS_MatchCode</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ITIS_TSN">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ITIS_TSN"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ITIS_TSN">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ITIS_TSN</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ITIS_TSN</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__IdentificationDate">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__IdentificationDate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__IdentificationDate">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__IdentificationDate</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DATE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">IdentificationDate</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__IdentificationEntity">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__IdentificationEntity"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__IdentificationEntity">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__IdentificationEntity</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">IdentificationEntity</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Infraclass">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Infraclass"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Infraclass">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Infraclass</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Infraclass</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Infraorder">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Infraorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Infraorder">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Infraorder</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Infraorder</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabComponent">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabComponent"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabComponent">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__LabComponent</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">LabComponent</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabOrderID">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabOrderID"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabOrderID">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__LabOrderID</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">LabOrderID</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabProcName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabProcName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabProcName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__LabProcName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">LabProcName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabRecordID">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabRecordID"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabRecordID">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__LabRecordID</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">LabRecordID</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabSubsamplingRatio">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabSubsamplingRatio"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__LabSubsamplingRatio">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__LabSubsamplingRatio</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">LabSubsamplingRatio</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Lifestage">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Lifestage"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Lifestage">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Lifestage</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Lifestage</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__NAWQAStudyUnitCode">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__NAWQAStudyUnitCode"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__NAWQAStudyUnitCode">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__NAWQAStudyUnitCode</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">NAWQAStudyUnitCode</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__NAWQA_SMCOD">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__NAWQA_SMCOD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__NAWQA_SMCOD">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__NAWQA_SMCOD</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">NAWQA_SMCOD</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Order_1">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Order_1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Order_1">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Order_1</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Order_1</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Phylum">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Phylum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Phylum">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Phylum</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Phylum</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProjectAssignedSampleLabel">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProjectAssignedSampleLabel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProjectAssignedSampleLabel">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ProjectAssignedSampleLabel</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ProjectAssignedSampleLabel</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProjectLabel">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProjectLabel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProjectLabel">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ProjectLabel</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ProjectLabel</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProvisionalData">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProvisionalData"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ProvisionalData">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ProvisionalData</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ProvisionalData</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedSortOrder">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedSortOrder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedSortOrder">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__PublishedSortOrder</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">PublishedSortOrder</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__PublishedTaxonName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">PublishedTaxonName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonNameAuthority">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonNameAuthority"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonNameAuthority">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__PublishedTaxonNameAuthority</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">PublishedTaxonNameAuthority</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonNameLevel">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonNameLevel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__PublishedTaxonNameLevel">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__PublishedTaxonNameLevel</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">PublishedTaxonNameLevel</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__RawCount">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__RawCount"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__RawCount">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__RawCount</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">RawCount</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ReleaseCategory">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ReleaseCategory"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ReleaseCategory">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ReleaseCategory</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ReleaseCategory</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SIDNO">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SIDNO"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SIDNO">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__SIDNO</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SIDNO</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SampleTypeCode">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SampleTypeCode"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SampleTypeCode">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__SampleTypeCode</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SampleTypeCode</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ScientificName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ScientificName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__ScientificName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__ScientificName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">ScientificName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__SiteName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SiteName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteNumber">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteNumber"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteNumber">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__SiteNumber</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SiteNumber</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteVisitSampleNumber">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteVisitSampleNumber"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__SiteVisitSampleNumber">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__SiteVisitSampleNumber</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SiteVisitSampleNumber</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Species">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Species"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Species">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Species</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Species</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__StartTime">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__StartTime"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__StartTime">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__StartTime</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">StartTime</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__StudyReachName">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__StudyReachName"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__StudyReachName">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__StudyReachName</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">StudyReachName</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subclass">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subclass"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subclass">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Subclass</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Subclass</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subfamily">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subfamily"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subfamily">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Subfamily</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Subfamily</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subgenus">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subgenus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subgenus">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Subgenus</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Subgenus</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Suborder">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Suborder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Suborder">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Suborder</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Suborder</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subphylum">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subphylum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subphylum">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Subphylum</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Subphylum</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subspecies">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subspecies"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Subspecies">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Subspecies</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Subspecies</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Superfamily">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Superfamily"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Superfamily">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Superfamily</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Superfamily</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Superorder">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Superorder"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Superorder">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Superorder</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Superorder</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TargetLevelNotReachedReason">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TargetLevelNotReachedReason"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TargetLevelNotReachedReason">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__TargetLevelNotReachedReason</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">TargetLevelNotReachedReason</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonRecordSource">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonRecordSource"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonRecordSource">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__TaxonRecordSource</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">TaxonRecordSource</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonVersionNumber">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonVersionNumber"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonVersionNumber">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__TaxonVersionNumber</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">TaxonVersionNumber</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonomicResultReviewStatus">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonomicResultReviewStatus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TaxonomicResultReviewStatus">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__TaxonomicResultReviewStatus</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">TaxonomicResultReviewStatus</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TimeDatum">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TimeDatum"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TimeDatum">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__TimeDatum</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">TimeDatum</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TotAreaSampled_m2">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TotAreaSampled_m2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__TotAreaSampled_m2">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__TotAreaSampled_m2</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">TotAreaSampled_m2</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Tribe">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Tribe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__Tribe">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__Tribe</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Tribe</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__UniqueTaxonFlag">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__UniqueTaxonFlag"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__UniqueTaxonFlag">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__UniqueTaxonFlag</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">UniqueTaxonFlag</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__VerificationDate">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__VerificationDate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__VerificationDate">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__VerificationDate</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DATE</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">VerificationDate</Alias>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__VerificationEntity">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/_201808211616INVERTRESULTS">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__VerificationEntity"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/_201808211616INVERTRESULTS__VerificationEntity">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">c72f3ed2-7187-4aec-97e1-67df1e2043ba:::_201808211616INVERTRESULTS__VerificationEntity</QueryStructName>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">VerificationEntity</Alias>
+</rdf:Description>
+
+</rdf:RDF>
